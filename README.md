@@ -113,5 +113,5 @@ A data de atualização sempre será informada no início do documento.
 
 Em caso de dúvidas sobre esta política, entre em contato:
 
-E-mail: suporte.guardiaodapiscina@gmail.com  
+E-mail: grupodantas@gmail.com  
 Desenvolvedor: Allisson Dantas
